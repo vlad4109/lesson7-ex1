@@ -1,1 +1,6 @@
 Wrote a test line
+Test nr 2:
+first line
+second line
+third line
+Test nr 2 ends
